@@ -1,0 +1,21 @@
+*{font-size: large;
+    color: azure;}
+    .pic {float: right;width:25%;  }
+
+    img:hover {
+        transform: scaleX(-1);
+}
+#band{
+    max-width: 100%;
+  height: auto;border-radius: 8px;
+
+}
+p1{background-color: rgb(62, 139, 62);
+color: black;font-size: 20px;font-family: monospace;}
+
+p{font-size: large;}    
+div {
+    background-image: url(https://thumbs.dreamstime.com/b/abstract-background-smoke-curves-wave-reggae-colors-green-yellow-red-colored-flag-music-111899004.jpg) 
+    ; width: auto;
+    
+}
